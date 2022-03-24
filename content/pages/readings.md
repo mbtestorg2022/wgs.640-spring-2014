@@ -38,13 +38,13 @@ In class: Clips from _[Peeping Tom](http://www.imdb.com/title/tt0054167/?ref_=nv
 {{< tdopen >}}
 
 
-\[FFT\] Mulvey, Laura. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Visual Pleasure and Narrative Cinema." (PDF)](http://screen.oxfordjournals.org/content/16/3/6.short?rss=1&ssource=mfc) pp. 58-69.
+\[FFT\] Mulvey, Laura. "[Visual Pleasure and Narrative Cinema." (PDF)](http://screen.oxfordjournals.org/content/16/3/6.short?rss=1&ssource=mfc) pp. 58-69.
 
 \[FFT\] ———. "[Afterthoughts on 'Visual Pleasure and Narrative Cinema](http://afc-theliterature.blogspot.com/2007/07/afterthoughts-on-visual-pleasure-and.html)." pp. 122–30.
 
 \[FFT\] Stacey, Jackie. "Feminine Fascinations: Forms of Identification." pp. 196–209.
 
-\[FFT\] hooks, bell. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Oppositional Gaze." (PDF)](https://womenandthemediablog.files.wordpress.com/2014/09/theoppositionalgaze-hooks1.pdf) pp. 307-20.
+\[FFT\] hooks, bell. ["The Oppositional Gaze." (PDF)](https://womenandthemediablog.files.wordpress.com/2014/09/theoppositionalgaze-hooks1.pdf) pp. 307-20.
 
 
 {{< tdclose >}}
@@ -64,7 +64,7 @@ LaPlace, Maria. "Producing and Consuming the Woman's Film: Discursive Struggle i
 
 Jacobs, Lea. ["Now Voyager: Some Problems of Enunciation and Sexual Difference." (PDF)](http://cameraobscura.dukejournals.org/content/3/1_7/88.short) _Camera Obscura_ 3, no. 17 (1981): 88–109.
 
-\[FFT\] Doane, Mary Ann Doane. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Film and the Masquerade: Theorizing the Female Spectator." (PDF)](http://screen.oxfordjournals.org/content/23/3-4/74.full.pdf) pp. 131–45.
+\[FFT\] Doane, Mary Ann Doane. ["Film and the Masquerade: Theorizing the Female Spectator." (PDF)](http://screen.oxfordjournals.org/content/23/3-4/74.full.pdf) pp. 131–45.
 
 Ford, Elizabeth, and Deborah Mitchell. "Charting the Course." In _The Makeover in Movies: Before and After In Hollywood Films, 2941–2002_. Mcfarland & Co. Inc Pub, 2004. ISBN: 9780786417216. \[Preview with [Google Books](http://books.google.com/books?id=Jmz__lna90kC&pg=PA9=onepage)\]
 
@@ -112,7 +112,7 @@ In class: Clips from _[Thelma and Louise](http://www.imdb.com/title/tt0103074/?r
 
 \[FFT\] Clover, Carol. "[Her Body, Himself: Gender in the Slasher Film](http://www.jstor.org/discover/10.2307/2928507?uid=3739696&uid=2&uid=4&uid=3739256&sid=21104975635573)." pp. 229–34.
 
-\[FFT\] Creed, Barbara. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Horror and the Monstrous Feminine: An Imaginary Abjection." (PDF)](http://screen.oxfordjournals.org/content/27/1/44.full.pdf) pp. 251–66.
+\[FFT\] Creed, Barbara. ["Horror and the Monstrous Feminine: An Imaginary Abjection." (PDF)](http://screen.oxfordjournals.org/content/27/1/44.full.pdf) pp. 251–66.
 
 \[FFT\] Williams, Linda. "Film Bodies: Gendfer, Genre and Excess." pp. 267–81.
 

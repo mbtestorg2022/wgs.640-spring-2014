@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c5d6eba6-22de-b247-4d57-9295f8d5de10
 resourcetype: Image
 title: WGS-640_stat-students
 uid: a55dcdd5-5e59-74e6-8829-95f7f4df4901

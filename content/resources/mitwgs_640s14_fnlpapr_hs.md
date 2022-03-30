@@ -4,6 +4,7 @@ description: Example of student work for a final paper investigating an aspect o
   body culture.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014/3d02e2eb1f5e6e507af959c6fb8f0aa6_MITWGS_640S14_FnlPapr_HS.pdf
 file_type: application/pdf
+parent_uid: 6c94b485-2b33-ecc2-456f-8a9f18f3e042
 resourcetype: Document
 title: 'The Phenomenal Woman: How Beauty Shop Redefines Postfeminism to Makes Space
   for Black Bodies'
